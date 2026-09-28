@@ -1,0 +1,5 @@
+dataset,source,metric,n,min,p1,q1,median,mean,q3,max,std,mean_similarity_pct,best_similarity_pct
+R6,result_nn_r6.csv,Levenshtein,19983,1.0,5.0,7.0,8.0,7.537,8.0,10.0,0.89,58.13,94.44
+R6,result_nn_r6.csv,Hamming,19983,1.0,6.0,8.0,9.0,9.094,10.0,12.0,1.127,49.48,94.44
+VAE,result_nn_vae_ordered_base_on_arch.csv,Levenshtein,1378,1.0,1.0,4.0,5.0,5.054,7.0,10.0,1.935,71.92,94.44
+VAE,result_nn_vae_ordered_base_on_arch.csv,Hamming,1378,1.0,1.0,4.0,5.0,5.184,7.0,10.0,2.068,71.2,94.44

@@ -1,0 +1,26 @@
+# Local environments and Python/Jupyter caches
+.venv/
+.venv-ml/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Local runs, credentials, and archives
+/runs/
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.log
+nohup.out
+*.tar.gz
+*.zip
+
+# Regenerable large analysis exports
+/distance-analysis/data/per_seq/
+/distance-analysis/data/pairwise_distances_*.csv
+/distance-analysis/data/matrix_*.csv
+/distance-analysis/gap/

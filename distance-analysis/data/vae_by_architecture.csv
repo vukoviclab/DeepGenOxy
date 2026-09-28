@@ -1,0 +1,4 @@
+architecture,n,lev_min_best,lev_min_mean,lev_min_median,lev_min_max,ham_min_best,ham_min_mean,ham_min_median,ham_min_max,mean_sim_pct
+conv,830,1,4.273,4.0,8,1,4.334,4.0,8,76.258
+dense,479,1,6.008,6.0,9,1,6.238,6.0,10,66.621
+lstm,69,2,7.812,8.0,10,2,8.101,9.0,10,56.604

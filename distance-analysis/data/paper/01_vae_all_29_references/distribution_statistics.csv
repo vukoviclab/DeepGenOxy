@@ -1,0 +1,2 @@
+dataset,variant,n,min,max,mean,median,mode,std,variance,q1,q3,iqr,skewness,excess_kurtosis,dagostino_k2,dagostino_p,anderson_stat,anderson_crit_5pct,normal_at_5pct
+VAE-generated,all 29 originals,1378,1,10,5.1843,5.0,5,2.0677,4.2754,4.0,7.0,3.0,-0.027,-0.65,55.61,8.404e-13,14.529,0.752,no

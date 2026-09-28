@@ -1,0 +1,8 @@
+# Analysis-only environment. Python 3.10 or newer.
+# The upper Matplotlib bound preserves legacy boxplot(labels=...) calls.
+numpy>=1.23.5,<3
+pandas>=2.0,<3
+matplotlib>=3.7,<3.11
+scipy>=1.10,<2
+# Optional per-reference Excel exports:
+XlsxWriter>=3,<4
